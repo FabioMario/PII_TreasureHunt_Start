@@ -12,7 +12,6 @@ namespace Program
             Console.WriteLine(v.Decrypt("WMWFKN"));
             Console.WriteLine(v.Decrypt("TORQ"));
             Console.WriteLine(v.Decrypt("JSFFOP"));
-            Console.WriteLine(v.Encrypt("GITHUB"));
         }
     }
 }
